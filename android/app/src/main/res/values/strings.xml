@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">charity3</string>
+    <string name="facebook_app_id">195133605813987</string>
+    <string name="fb_login_protocol_scheme">fb195133605813987</string>
+</resources>

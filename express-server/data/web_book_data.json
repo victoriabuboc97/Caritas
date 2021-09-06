@@ -1,0 +1,104 @@
+[
+    {
+        "id": 1,
+        "name": "Doctors Without Borders",
+        "photo": "https:\/\/img.msf.org\/AssetLink\/02eg0i523r5e1562446nf3a4ra441603.jpg",
+        "category": "Health"
+    },
+    {
+        "id": 2,
+        "name": "American Red Cross",
+        "photo": "https:\/\/www.redcross.org\/content\/dam\/redcross\/Disaster-Cycle-Services\/prepare-disaster-wildfire-mobile.jpg.transform\/1288\/q82\/feature\/image.jpeg",
+        "category": "Health"
+    },
+    {
+        "id": 3,
+        "name": "The Nature Conservancy",
+        "photo": "https:\/\/natureconservancy-h.assetsadobe.com\/is\/image\/content\/dam\/tnc\/nature\/en\/photos\/Independence-Lake-Clean-Drinking-Water_4000x2200.jpg?crop=1175,0,1650,2200&wid=600&hei=800&scl=2.75",
+        "category": "Nature"
+    },
+    {
+        "id": 4,
+        "name": "Natural Resources Defense Council",
+        "photo": "https:\/\/assets.nrdc.org\/sites\/default\/files\/styles\/ec_home_alert_medium\/public\/nrdc_daf_mayfundraisingcampaign_asset3_1201002824_1200x800.jpeg?itok=1tiSCa8p",
+        "category": "Nature"
+    },
+    {
+        "id": 5,
+        "name": "St. Jude Children's Hospital",
+        "photo": "https:\/\/www.stjude.org\/about-st-jude\/visit\/locations\/_jcr_content\/image.img.800.high.jpg\/1575903775107.jpg",
+        "category": "Research"
+    },
+    {
+        "id": 6,
+        "name": "World Wildlife Fund",
+        "photo": "https:\/\/c402277.ssl.cf1.rackcdn.com\/photos\/21045\/images\/story_full_width\/Medium_WW138198.jpg?1621428677",
+        "category": "Nature"
+    },
+    {
+        "id": 7,
+        "name": "UNICEF ",
+        "photo": "https:\/\/www.unicef.org\/sites\/default\/files\/styles\/media_banner\/public\/India-UN0348832-hero_0.jpg?itok=SN-Hiyf3",
+        "category": "Children"
+    },
+    {
+        "id": 8,
+        "name": "Save the Children",
+        "photo": "https:\/\/www.youthopportunitieshub.com\/wp-content\/uploads\/2020\/11\/Optimized-save-child.jpg",
+        "category": "Children"
+    },
+    {
+        "id": 9,
+        "name": "DAV Charitable Service Trust",
+        "photo": "https:\/\/encrypted-tbn0.gstatic.com\/images?q=tbn:ANd9GcR-kBLQYuypp72UNYhWKh5I3NJL7eiE1xTUJQ&usqp=CAU",
+        "category": "Social"
+    },
+    {
+        "id": 10,
+        "name": "American Society for the Prevention of Cruelty to Animals",
+        "photo": "https:\/\/www.aspca.org\/sites\/default\/files\/field\/image\/blog-og-image\/blog_prevention-month_033117_fb.png",
+        "category": "Animals"
+    },
+    {
+        "id": 11,
+        "name": "Amnesty International",
+        "photo": "https:\/\/www.amnesty.org.uk\/files\/styles\/homepage_top_content_tablet\/s3\/2021-05\/OPT_Israel_Action_Page.png?VersionId=CJoV.dHtx5akgESc7PS19YpngVbTILRj&itok=LrCFe2oc",
+        "category": "Social"
+    },
+    {
+        "id": 12,
+        "name": "APOPO ",
+        "photo": "https:\/\/www.apopo.org\/website\/var\/tmp\/image-thumbnails\/0\/4429\/thumb__adoption-rat-image\/APOPO%20HeroRAT%20Magawa%20wearing%20his%20PDSA%20Gold%20Medal.jpeg",
+        "category": "Social"
+    },
+    {
+        "id": 13,
+        "name": "Birdlife International",
+        "photo": "https:\/\/www.birdlife.org\/sites\/default\/files\/styles\/slider_image\/public\/slider\/blackcap_illegal_trapping_c_birdlife_europe_-_flight_for_survival.jpg?itok=Sq3zL0m1",
+        "category": "Animals"
+    },
+    {
+        "id": 14,
+        "name": "Transparency International",
+        "photo": "https:\/\/encrypted-tbn0.gstatic.com\/images?q=tbn:ANd9GcQpnYYY1IX1ERwK_SqudDOLwFDjhqoa8tBxag&usqp=CAU",
+        "category": "Social"
+    },
+    {
+        "id": 15,
+        "name": "Greenpeace",
+        "photo": "https:\/\/www.greenpeace.org\/static\/planet4-eastasia-stateless\/2019\/02\/4fd52ccd-arctic-sunrise-4f161d34-gp0stpb25_pressmedia.jpg",
+        "category": "Nature"
+    },
+    {
+        "id": 16,
+        "name": "Deutsche AIDS-Hilfe",
+        "photo": "https:\/\/lh3.googleusercontent.com\/proxy\/Sp6n2xVQlvNlGZfNCv0vLJcaleFYSD2mjDEtFnX1Zg-wwVDcg11-fAp0j1aMgxK4GiV30PvB4Lz5QnuGatZ_RtBgqnhNbixXp9iS9p_6QqVNoNzZrSjsM_j_-uMR6eF_9Uw",
+        "category": "Health"
+    },
+    {
+        "id": 17,
+        "name": "UNESCO",
+        "photo": "https:\/\/share.america.gov\/wp-content\/uploads\/2017\/10\/RTR350QH.jpg",
+        "category": "Social"
+    }
+]

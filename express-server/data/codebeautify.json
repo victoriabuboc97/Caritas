@@ -1,0 +1,58 @@
+﻿[
+	{
+		"id": "18",
+		"organizationName": "ATCA",
+		"category": "Health",
+		"keywords": "doctor,health,medecine",
+		"organizationImage": "http://www.imparte.ro/Galerie/Cazuri/524238ea3231524039906.jpg",
+		"description": "Asociația de Terapie Comportamentală Aplicată a devenit un standard profesional prin rezultatele remarcabile în programele de intervenție pentru copiii cu tulburări comportamentale și din spectrul autist și s-a specializat în domeniul de formare a terapeuților ABA din România.",
+		"location": "Romania",
+		"financial score": "92.25",
+		"organizationAvatar": "http://www.imparte.ro/Galerie/Cazuri/524237ea3231524039433.png",
+		"site": "https://atca.ro/",
+		"donated": "0",
+		"target": "50000"
+	},
+	{
+		"id": "19",
+		"organizationName": "ASOCIATIA ARCADA",
+		"category": "Health",
+		"keywords": "health,children",
+		"organizationImage": "http://www.imparte.ro/Galerie/Cazuri/380761cb5071452600489.jpg",
+		"description": "In 2016, cu ajutor din partea donatorilor, Asociatia A.R.C.A.D.A. a fost în masura sa ofere compasiune alaturi de un sprijin financiar vital pentru o varietate de cazuri.\r\nAm fost aproape de copiii afectati de ADHD, copii afectati de autism, si de familiile acestora, la fiecare incercare a lor de a tine boala departe.",
+		"location": "Romania",
+		"financial score": "89.76",
+		"organizationAvatar": "http://www.imparte.ro/Galerie/Cazuri/380761cb5071452600489.jpg",
+		"site": "http://arcada.ong/",
+		"donated": "0",
+		"target": "20000"
+	},
+	{
+		"id": "20",
+		"organizationName": "ASOCIAŢIA SMILING FACES",
+		"category": "Children",
+		"keywords": "children",
+		"organizationImage": "http://www.imparte.ro/Galerie/Cazuri/50601261e431488267325.jpg",
+		"description": "Misiunea nostra este de a identifica si sprijini persoanele afectate de sindromul oculo-auriculo-vertebral spectrum, precum si de alte sindroame cu manifestari craniofaciale. Totodata ne angajem sa asiguram un maxim de transparenta a activitatilor noastre si a folosirii fondurilor provenite din sponsorizari.",
+		"location": "Romania",
+		"financial score": "84.49",
+		"organizationAvatar": "http://www.imparte.ro/Galerie/Cazuri/50601261e431488267364.png",
+		"site": "http://www.malformatiifaciale.org.ro",
+		"donated": "0",
+		"target": "15000"
+	},
+	{
+		"id": "21",
+		"organizationName": "ASOCIATIA UMANITATE",
+		"category": "Social",
+		"keywords": "people,social",
+		"organizationImage": "http://www.imparte.ro/Galerie/Cazuri/322326c2f341336320906.png",
+		"description": "Asociatia Umanitate a fost creata in scopul desfasurarii de activitati caritabile in domeniul protectiei sociale si promovarea manifestarilor culturale cu caracter social si educativ.",
+		"location": "Romania",
+		"financial score": "94.87",
+		"organizationAvatar": "http://www.imparte.ro/Galerie/Cazuri/322326c2f341336320906.png",
+		"site": "www.umanitate.ro",
+		"donated": "0",
+		"target": "30000"
+	}
+]
